@@ -4,8 +4,8 @@ Hello and welcome to DE_modules repo, This repo contails different modules of di
 ___
 ## Structure of this repo:
 The structure of this repo is mentioned below using an tree-structure with a berif idea about the folder:
-{
-    DE_modules/
+
+`DE_modules/
 ├── .gitattributes
 ├── README.md (you are currently reading)
 ├── LICENSE (Licesed under Apache-2.0)
@@ -19,6 +19,5 @@ The structure of this repo is mentioned below using an tree-structure with a ber
 │   └──(tracking every module's status.) 
 │
 ├── downloads/
-x   └──(download according to your tool.) 
-}
+x   └──(download according to your tool.)` 
 
