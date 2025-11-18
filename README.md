@@ -22,6 +22,6 @@ The structure of this repo is shown below using an tree-structure with a berif i
     ├── downloads/
     x   └── (all src files)  //collective download (tool specific). 
 
-each folder is having an README file for easy navigation and info tailored to itself.
+each folder is having an README file for easy navigation and info tailored to that folder.
 
 ___
